@@ -4,7 +4,6 @@ indexator
 CasperJS script to make Googlebot to index instantly any url.
 
 ##Usage
-=========
 1. Create 301.php on a website you control on GWT
 2. Call indexator like this :
 
